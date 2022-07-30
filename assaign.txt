@@ -1,0 +1,7 @@
+var i,n;
+
+if (i<200){
+
+for (i=i,n=n;i++;i<200) {i=i++}}
+
+else {n=n++;i=0}
