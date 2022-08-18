@@ -3,5 +3,5 @@ l=ceil((random()*10));
 console.log(l);
 var c = function (){
 for (i=1;i<=lenght(l);i++) {i=i++; c=i}};
-c=c;
+c=number(c);
 console.log(i);
